@@ -1,2 +1,5 @@
-# sales-dashboard-excel
-Interactive Sales Dashboard built using Excel (Superstore Dataset)
+sales-dashboard-excel/
+│
+├── sales-dashboard.xlsx
+├── dashboard-preview.png
+└── README.md
